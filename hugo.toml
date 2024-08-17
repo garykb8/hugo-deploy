@@ -3,8 +3,4 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 defaultMarkdownHandler = 'goldmark'
-
-[module]
-  [[module.mounts]]
-    source = 'static'
-    target = 'static'
+canonifyURLs = true
