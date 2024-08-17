@@ -8,4 +8,4 @@ images = ['images/CapTown_TW_iconB10.jpg']
 每天下午都在下雨 >"<
 
 
-![Image alt](/images/CapTown_TW_iconB10.jpg)
+![Image alt](CapTown_TW_iconB10.jpg)
