@@ -3,4 +3,3 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 defaultMarkdownHandler = 'goldmark'
-canonifyURLs = true
